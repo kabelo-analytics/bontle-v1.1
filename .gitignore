@@ -1,16 +1,16 @@
 # Python
-.venv/
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
-.env
+.Python
+.venv/
+venv/
+ENV/
+env/
 
-# Node
-node_modules/
-.vite/
-dist/
+# OS / Editor
 .DS_Store
-
-# Logs
-*.log
+Thumbs.db
+.vscode/
+.idea/
